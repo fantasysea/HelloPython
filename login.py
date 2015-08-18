@@ -1,22 +1,30 @@
 __author__ = 'wuheyou'
 
 #coding=utf8
+import testsys
+def func3():
+    '''dfdff
 
-import httplib
+    gfgfgfgdf'''
+    global i
+    i=17
+    print i
+i=9
+func3()
+# i=9
+print i
 
-httpClient = None
+#dfdfdfdf
+def d(i,j):
+    '''dfdfdfd
 
-try:
-    httpClient = httplib.HTTPConnection('baidu.com', 80, timeout=30)
-    httpClient.request('GET', '/')
+    sfsfsfsfsfsf'''
+    k=i*j
+    return k
 
-    #response是HTTPResponse对象
-    response = httpClient.getresponse()
-    print response.status
-    print response.reason
-    print response.read()
-except Exception, e:
-    print e
-finally:
-    if httpClient:
-        httpClient.close()
+print d.__doc__
+
+help(d)
+
+
+

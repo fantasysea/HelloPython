@@ -67,5 +67,5 @@ secret_code = 'hadkfalifexxIxxfasdjifja134xxlovexx23345sdfxxyouxx8dfse'
 
 #匹配数字
 a = 'asdfasf1234567fasd555fas'
-b = re.findall('(\D+(\d+)\D+)',a)
+b = re.findall('(\d+)',a)
 print b

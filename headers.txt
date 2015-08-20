@@ -1,0 +1,14 @@
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.8
+Cache-Control:no-cache
+Connection:keep-alive
+Content-Length:395
+Content-Type:application/x-www-form-urlencoded; charset=UTF-8
+Cookie:sid=diojl3eg3rk86sg3bl4dao1sa3; token=YWE4Ym5EYkd2ZUszN1FTMUgzMTJKd3pwbHRCZlVmQVVybFRDUmhYV3dBOmE2NTZOaDhLV3B0cEN0OXVXVCt2S0M3RDVpc0dZOFg4dzdOanhOUU8rMHBXdEF6Q2tzS0toYXZDa1lNWGtMUVJUQlJ2RUM2ZTVLVnVoSHdBZ3c%3D; vector-nav-p-.E6.97.A0.E4.BD.95.E6.9C.89.E6.89.8B.E6.9C.BA.E7.AB.AF=true; vector-nav-p-.E5.85.AC.E5.8F.B8.E5.8A.9E.E5.85.AC.E8.AE.BE.E7.BD.AE=true; vector-nav-p-tb=true
+Host:www.wiki.com
+Origin:http://www.wiki.com
+Pragma:no-cache
+Referer:http://www.wiki.com/wuheyou_test/iframe.php?tid=0
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+X-Requested-With:XMLHttpRequest

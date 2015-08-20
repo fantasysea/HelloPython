@@ -45,7 +45,7 @@ secret_code = 'hadkfalifexxIxxfasdjifja134xxlovexx23345sdfxxyouxx8dfse'
 # for item in f.groups():
 #     print(item)
 # # print f.group(2)
-# f2 = re.findall('xx(.*?)xx123xx(.*?)xx',s2)
+# f2 = re.findall('xx(.*?)xx123xx(.*?)XX',S2)
 # print f2[0][1]
 
 
@@ -66,6 +66,6 @@ secret_code = 'hadkfalifexxIxxfasdjifja134xxlovexx23345sdfxxyouxx8dfse'
 # print output
 
 #匹配数字
-a = 'asdfasf1234567fasd555fas'
-b = re.findall('(\d+)',a)
-print b
+a = u'asdfasf1234567fasd555fas'
+b = re.findall('(\D+(\d+)\D+)',a)
+print str()
